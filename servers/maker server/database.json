@@ -1,0 +1,160 @@
+[
+    {
+        "username": "test_user",
+        "data": {
+            "login": {
+                "username": "test_user",
+                "password": "passcode"
+            },
+            "colab": {
+                "team1": [
+                    {
+                        "github": [
+                            {
+                                "github1": "pass_github1"
+                            },
+                            {
+                                "github2": "pass_github2"
+                            }
+                        ]
+                    },
+                    {
+                        "replit": [
+                            {
+                                "replit1": "pass_replit1"
+                            },
+                            {
+                                "replit2": "pass_replit2"
+                            }
+                        ]
+                    }
+                ],
+                "team2": [
+                    {
+                        "github": [
+                            {
+                                "github1": "pass_github1"
+                            },
+                            {
+                                "github2": "pass_github2"
+                            }
+                        ]
+                    },
+                    {
+                        "vercel": [
+                            {
+                                "vercel1": "pass_vercel1"
+                            },
+                            {
+                                "vercel2": "pass_vercel2"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "personal": [
+                [
+                    {
+                        "github": [
+                            {
+                                "github": "pass_github"
+                            },
+                            {
+                                "github_work": "pass_github_work"
+                            }
+                        ]
+                    },
+                    {
+                        "replit": [
+                            {
+                                "replit": "pass_replit"
+                            },
+                            {
+                                "replit_work": "pass_replit_work"
+                            }
+                        ]
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "username": "test_user2",
+        "data": {
+            "login": {
+                "username": "test_user2",
+                "password": "passcode2"
+            },
+            "colab": {
+                "team1": [
+                    {
+                        "github": [
+                            {
+                                "github1": "pass_github1"
+                            },
+                            {
+                                "github2": "pass_github2"
+                            }
+                        ]
+                    },
+                    {
+                        "replit": [
+                            {
+                                "replit1": "pass_replit1"
+                            },
+                            {
+                                "replit2": "pass_replit2"
+                            }
+                        ]
+                    }
+                ],
+                "team2": [
+                    {
+                        "github": [
+                            {
+                                "github1": "pass_github1"
+                            },
+                            {
+                                "github2": "pass_github2"
+                            }
+                        ]
+                    },
+                    {
+                        "vercel": [
+                            {
+                                "vercel1": "pass_vercel1"
+                            },
+                            {
+                                "vercel2": "pass_vercel2"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "personal": [
+                [
+                    {
+                        "github": [
+                            {
+                                "github": "pass_github"
+                            },
+                            {
+                                "github_work": "pass_github_work"
+                            }
+                        ]
+                    },
+                    {
+                        "replit": [
+                            {
+                                "replit": "pass_replit"
+                            },
+                            {
+                                "replit_work": "pass_replit_work"
+                            }
+                        ]
+                    }
+                ]
+            ]
+        }
+    }
+]
